@@ -1,1 +1,2 @@
-Data Visualization and Story telling with PowerBI
+Data Visualization and Story telling using PowerBI.
+
